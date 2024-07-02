@@ -1,0 +1,6 @@
+https://learn.microsoft.com/pt-br/training/modules/power-bi-effective-reports/3-report-visuals
+https://learn.microsoft.com/pt-br/training/modules/power-bi-effective-structure/3-produce-guided-experience
+https://powerbi.microsoft.com/en-us/data-storytelling/
+https://learn.microsoft.com/en-us/power-bi/create-reports/service-reports-visual-interactions?tabs=powerbi-desktop
+https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-drill-through-buttons
+https://learn.microsoft.com/en-us/power-bi/learning-catalog/learning-catalog-data-analyst
