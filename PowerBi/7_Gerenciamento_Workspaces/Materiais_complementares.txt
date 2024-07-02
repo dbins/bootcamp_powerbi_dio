@@ -1,0 +1,26 @@
+Dicas/Links Úteis
+ 
+Por fim, disponibilizamos alguns links úteis para que você possa se desenvolver ainda mais através de referências oficiais das tecnologias, páginas de documentação e/ou fóruns de discussão relevantes. Nesse contexto, seguem algumas sugestões:
+ 
+Workspaces:
+https://learn.microsoft.com/pt-br/power-bi/collaborate-share/service-new-workspaces
+https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-create-the-new-workspaces
+
+Pipelines:
+https://learn.microsoft.com/pt-br/power-bi/create-reports/deployment-pipelines-overview
+https://learn.microsoft.com/pt-br/power-bi/create-reports/deployment-pipelines-best-practices
+https://learn.microsoft.com/pt-br/power-bi/create-reports/deployment-pipelines-assign#limitations
+Linhagem de Dados
+https://learn.microsoft.com/pt-br/power-bi/collaborate-share/service-data-lineage
+Criando Apps
+https://learn.microsoft.com/pt-br/power-bi/collaborate-share/service-create-distribute-apps
+Monitoramento de desempenho com Métricas
+https://learn.microsoft.com/pt-br/power-bi/collaborate-share/service-modern-usage-metrics
+Proteção de Dados
+https://learn.microsoft.com/pt-br/power-bi/enterprise/service-security-data-protection-overview
+https://learn.microsoft.com/pt-br/power-bi/enterprise/service-security-apply-data-sensitivity-labels
+Gerenciando Datasets no Power BI
+https://learn.microsoft.com/pt-br/data-integration/gateway/service-gateway-install
+https://learn.microsoft.com/pt-br/power-bi/connect-data/incremental-refresh-overview
+https://learn.microsoft.com/pt-br/power-bi/collaborate-share/service-endorse-content
+https://learn.microsoft.com/pt-br/power-bi/connect-data/refresh-troubleshooting-refresh-scenarioshttps://learn.microsoft.com/pt-br/power-bi/connect-data/power-bi-query-caching
